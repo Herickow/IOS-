@@ -1,0 +1,39 @@
+body{
+    margin: 0 ;
+}
+
+
+
+.box{
+    background: #090a11;
+   margin: 0 ;
+   opacity: 0.95;
+   position: fixed;
+   width: 100%;
+}
+
+
+
+.box_cabeçalho{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20% 0 20%;
+}
+
+
+.box_cabeçalho-titulo{
+    color: #c3073f;
+}
+
+
+
+.box_cabeçalho-nav-ul{
+display: flex;
+list-style-type: none;
+}
+
+
+.box_cabeçalho-nav-ul-li{
+    padding: 10px;
+    color: #c5c6c7;
+}
